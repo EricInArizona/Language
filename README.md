@@ -1,2 +1,3 @@
-# Language
-For analyzing language, like Spanish.
+# Math and Graphics
+Math and graphics.  Vectors, matrices, quaternions, tensors.
+
